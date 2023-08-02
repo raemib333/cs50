@@ -23,8 +23,16 @@ Conversion to CNF
 - Eliminate implications
 - Move not inwards using De Morgan's Laws
 - Use distributive law to distribute the or wherever possible
+
+empty claws is always wrong
+
+
+**Inference Resolution Algorithm**
+- 
+Proof by contradiction
+
+
+**first order logic**
 - 
 
-** Inference Resolution Algorithm**
-- 
 
